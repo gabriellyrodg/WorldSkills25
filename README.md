@@ -1,1 +1,1 @@
-![WorldSkills Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.senaipr.org.br%2Fworldskills%2Fhistoria%2F&psig=AOvVaw0M9a4-LptSRs62od4SAMZ7&ust=1748646232717000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDFyv3kyY0DFQAAAAAdAAAAABAW)
+![WorldSkills Logo](https://www.senaipr.org.br/worldskills/historia/dbimages/worldskills_230363_img.jpg)
