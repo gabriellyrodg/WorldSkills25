@@ -1,7 +1,40 @@
-![WorldSkills Logo](https://www.senaipr.org.br/worldskills/historia/dbimages/worldskills_230363_img.jpg)
+![WorldSkills Logo](https://seeklogo.com/images/W/worldskills-logo-153966/WorldSkills-Logo-2000x1369.png)
 
-📁 Pasta de Atividades – Treinamento WorldSkills 2025
+🏆 WorldSkills 2025 – Treinamento de Desenvolvimento de Sistemas
+📍 SENAI Estadual - ES
 
-💻 Competição de Desenvolvimento de Sistemas – SENAI 
+📁 Sobre o Repositório
+  Este repositório reúne as atividades práticas realizadas durante o treinamento para a WorldSkills 2025, na ocupação de Desenvolvimento de Sistemas, com foco na linguagem C#.
 
-- Este repositório contém as atividades desenvolvidas como parte do treinamento para a WorldSkills 2025, na ocupação de Desenvolvimento de Sistemas, realizadas no SENAI São Mateus – ES.
+  Os exercícios e projetos aqui desenvolvidos têm como objetivo o aperfeiçoamento técnico, organização de código e preparação para desafios práticos da competição.
+
+🧰 Tecnologias Utilizadas
+  💻 Linguagem principal: C# (.NET)
+
+  📦 Bibliotecas: ClosedXML, System.IO, entre outras
+
+  📄 Ferramentas: Visual Studio, Git, GitHub
+
+👨‍🏫 Instrutores Responsáveis
+   - Carlos Pereira
+
+   - Raphael Ribeiro
+
+📎 Organização
+  As atividades estão organizadas por temas e fases dentro das pastas do repositório. Cada atividade pode conter:
+
+  Código-fonte (.cs)
+
+  Planilhas ou arquivos de entrada
+
+
+📌 Objetivo
+  Capacitar o aluno participante da WorldSkills na ocupação de Desenvolvimento de Sistemas, promovendo:
+
+  Boas práticas de programação
+
+  Trabalho com arquivos e manipulação de dados
+
+  Uso de bibliotecas externas
+
+  Entendimento de padrões e estruturação de projetos
