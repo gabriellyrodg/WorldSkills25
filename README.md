@@ -1,2 +1,1 @@
-# WorldSkills25
-Atividades de treinamento para o WorldSkills de 2025!
+![WorldSkills Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.senaipr.org.br%2Fworldskills%2Fhistoria%2F&psig=AOvVaw0M9a4-LptSRs62od4SAMZ7&ust=1748646232717000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDFyv3kyY0DFQAAAAAdAAAAABAW)
