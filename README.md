@@ -1,4 +1,5 @@
-![WorldSkills Logo](C:\Users\ezmkn\Downloads\WS_Logo\WS Logo\RGB\PNG/WS_Logo_White_RGB)
+![WorldSkills Logo](images/WS_Logo_White_RGB.png)
+
 
 🏆 WorldSkills 2025 – Treinamento de Desenvolvimento de Sistemas
 📍 SENAI Estadual - ES
