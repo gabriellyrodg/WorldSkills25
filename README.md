@@ -1,41 +1,49 @@
-![WorldSkills Logo](images/WS_Logo_White_RGB.png)
+<p align="center">
+  <img src="images/WS_Logo_White_RGB.png" alt="WorldSkills Logo" width="300"/>
+</p>
 
-
-🏆 WorldSkills 2025 – Treinamento de Desenvolvimento de Sistemas
+# 🏆 WorldSkills 2025 – Treinamento de Desenvolvimento de Sistemas  
 📍 SENAI Estadual - ES
 
-📁 Sobre o Repositório
-  - Este repositório reúne as atividades práticas realizadas durante o treinamento para a WorldSkills 2025, na ocupação de Desenvolvimento de Sistemas, com foco na linguagem C#.
+---
 
-  - Os exercícios e projetos aqui desenvolvidos têm como objetivo o aperfeiçoamento técnico, organização de código e preparação para desafios práticos da competição.
+## 📁 Sobre o Repositório
 
-🧰 Tecnologias Utilizadas
-  - 💻 Linguagem principal: C# (.NET)
+Este repositório reúne as atividades práticas realizadas durante o treinamento para a **WorldSkills 2025**, na ocupação de **Desenvolvimento de Sistemas**, com foco na linguagem **C#**.
 
-  - 📦 Bibliotecas: ClosedXML, System.IO, entre outras
+Os exercícios e projetos aqui desenvolvidos têm como objetivo o **aperfeiçoamento técnico**, **organização de código** e **preparação para desafios práticos** da competição.
 
-  - 📄 Ferramentas: Visual Studio, Git, GitHub
+---
 
-👨‍🏫 Instrutores Responsáveis
-   - Carlos Pereira
+## 🧰 Tecnologias Utilizadas
 
-   - Raphael Ribeiro
+- 💻 **Linguagem principal:** C# (.NET)  
+- 📦 **Bibliotecas:** ClosedXML, System.IO, entre outras  
+- 🛠️ **Ferramentas:** Visual Studio, Git, GitHub  
 
-📎 Organização
-  - As atividades estão organizadas por temas e fases dentro das pastas do repositório. Cada atividade pode conter:
+---
 
-  - Código-fonte (.cs)
+## 👨‍🏫 Instrutores Responsáveis
 
-  - Planilhas ou arquivos de entrada
+- Carlos Pereira  
+- Raphael Ribeiro  
 
+---
 
-📌 Objetivo
-  - Capacitar o aluno participante da WorldSkills na ocupação de Desenvolvimento de Sistemas, promovendo:
+## 📎 Organização
 
-  - Boas práticas de programação
+As atividades estão organizadas por temas e fases dentro das pastas do repositório. Cada atividade pode conter:
 
-  - Trabalho com arquivos e manipulação de dados
+- 📄 Código-fonte (`.cs`)  
+- 📊 Planilhas ou arquivos de entrada  
 
-  - Uso de bibliotecas externas
+---
 
-  - Entendimento de padrões e estruturação de projetos
+## 📌 Objetivo
+
+Capacitar o aluno participante da WorldSkills na ocupação de **Desenvolvimento de Sistemas**, promovendo:
+
+- ✅ Boas práticas de programação  
+- ✅ Trabalho com arquivos e manipulação de dados  
+- ✅ Uso de bibliotecas externas  
+- ✅ Entendimento de padrões e estruturação de projetos  
