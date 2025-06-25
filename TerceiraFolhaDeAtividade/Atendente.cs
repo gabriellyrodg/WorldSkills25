@@ -40,6 +40,26 @@ public static class Atendente
                     Console.WriteLine("Atendente: " + respostas[chave]);
                     respondeu = true;
                 }
+                else 
+                {
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("Atendente: Não consegui entender, sinto muito! Posso te encaminhar para o Suporte tecnico se for um problema.\n Pressione 1 para ir para o suporte tecnico ou 2 para continuar no chat: ")
+                    int help = int.Parse(Console.ReadLine())
+                    if (help == 1)
+                    {
+                        SuporteTecnico.Suporte();
+                    }
+                    else if (help == 2)
+                    {
+                        Atendente.FalarComAtendente();
+                    }
+                    else 
+                    {
+                        Console.WriteLine("Opção Invalida. Retornando para o menu...")
+                        Menu.MenuPrincipal(1);
+                    }
+                }
+                    
             }
 
             if (!respondeu)
